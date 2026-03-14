@@ -1,0 +1,3 @@
+data/spikes.csv
+local_backup_data/
+notebooks/*backup*.ipynb
